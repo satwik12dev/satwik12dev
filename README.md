@@ -61,7 +61,7 @@
 | **🎯 Number Guessing Game**  | Java                     | Simple logic-based interactive game    |
 | **🌐 Hospital Management**      | Java ,JDBC     | CLI-based hosiptal data manager               |
 
-🔗 **Visit my portfolio:** [website-af6b9.web.app](https://website-af6b9.web.app)
+🔗 **Visit my portfolio:** [satwiksaxena-30fb9.web.app/](https://satwiksaxena-30fb9.web.app/)
 
 ---
 
@@ -70,7 +70,7 @@
 <p align="center">
   <a href="mailto:satwiksaxena41@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/satwik-12-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://website-af6b9.web.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://satwiksaxena-30fb9.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
