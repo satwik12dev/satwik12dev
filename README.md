@@ -5,18 +5,17 @@ Full Stack Java Developer • Backend Engineer • AI/ML Explorer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Spring+Boot+Backend+Engineer;AI+ML+Explorer;Building+Scalable+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Full+Stack+Java+Developer;Spring+Boot+Backend+Engineer;AI+ML+Explorer;Building+Real+World+Applications"/>
 </p>
 
 <p align="center">
 <a href="mailto:satwiksaxena41@gmail.com">Email</a> •
 <a href="https://www.linkedin.com/in/satwik-12-dev">LinkedIn</a> •
-<a href="https://satwiksaxena-30fb9.web.app/">Portfolio</a> •
-<a href="https://github.com/satwik12dev">GitHub</a>
+<a href="https://satwiksaxena-30fb9.web.app/">Portfolio</a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=satwik12dev&style=flat-square&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=satwik12dev&style=flat-square"/>
 </p>
 
 ---
@@ -26,9 +25,9 @@ Full Stack Java Developer • Backend Engineer • AI/ML Explorer
 I am a **Full Stack Java Developer** passionate about building scalable backend systems and real-world web applications.
 
 • B.Tech Computer Science — Teerthanker Mahaveer University
-• Strong in Data Structures & Algorithms
-• Backend development with Spring Boot
-• Experience in AI/ML and Deep Learning projects
+• Strong foundation in **DSA, OOP, DBMS, OS**
+• Backend development using **Java & Spring Boot**
+• Experience in **AI/ML and Deep Learning projects**
 
 ---
 
@@ -44,9 +43,9 @@ I am a **Full Stack Java Developer** passionate about building scalable backend 
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=satwik12dev&show_icons=true&theme=default&count_private=true"/>
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=satwik12dev&show_icons=true&count_private=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwik12dev&layout=compact"/>
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=satwik12dev&layout=compact"/>
 
 </p>
 
@@ -55,7 +54,7 @@ I am a **Full Stack Java Developer** passionate about building scalable backend 
 ## GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=satwik12dev&theme=default"/>
+<img src="https://streak-stats.demolab.com?user=satwik12dev"/>
 </p>
 
 ---
@@ -63,7 +62,7 @@ I am a **Full Stack Java Developer** passionate about building scalable backend 
 ## Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satwik12dev&theme=github"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satwik12dev"/>
 </p>
 
 ---
@@ -72,56 +71,37 @@ I am a **Full Stack Java Developer** passionate about building scalable backend 
 
 ### EzyTranShip
 
-Vehicle booking platform connecting users with commercial drivers.
-
+Vehicle booking platform connecting users with commercial drivers
 Tech: React • Node.js • Firebase
-
----
 
 ### Hospital Management System
 
-Application to manage patients, doctors and appointments.
-
+System to manage patients, doctors and appointments
 Tech: Java • JDBC • MySQL
-
----
 
 ### Portfolio Website
 
-Personal developer portfolio website.
-
+Personal developer portfolio
 Tech: HTML • CSS • JavaScript
-
----
 
 ### Spring Boot REST API
 
-Backend system providing REST APIs.
-
+Backend REST API application
 Tech: Java • Spring Boot
-
----
 
 ### File Hider App
 
-Secure application to hide personal files.
-
+Secure application to hide personal files
 Tech: Java
-
----
 
 ### Cat vs Dog Image Classifier
 
-Deep learning CNN model for image classification.
-
+Deep learning CNN model
 Tech: Python • TensorFlow
-
----
 
 ### Python Snake Game
 
-Classic snake game built using Python.
-
+Classic snake game implementation
 Tech: Python
 
 ---
@@ -129,7 +109,7 @@ Tech: Python
 ## GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=satwik12dev&theme=flat&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=satwik12dev&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -142,7 +122,7 @@ Tech: Python
 
 ---
 
-## Contact Me
+## Contact
 
 <p align="center">
 
