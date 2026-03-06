@@ -1,5 +1,3 @@
-<!-- HEADER -->
-
 <h1 align="center">Satwik Saxena</h1>
 
 <p align="center">
@@ -13,23 +11,24 @@ Full Stack Java Developer • Backend Engineer • AI/ML Explorer
 <p align="center">
 <a href="mailto:satwiksaxena41@gmail.com">Email</a> •
 <a href="https://www.linkedin.com/in/satwik-12-dev">LinkedIn</a> •
-<a href="https://satwiksaxena-30fb9.web.app/">Portfolio</a>
+<a href="https://satwiksaxena-30fb9.web.app/">Portfolio</a> •
+<a href="https://github.com/satwik12dev">GitHub</a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=satwik12dev&label=Profile%20Views"/>
+<img src="https://komarev.com/ghpvc/?username=satwik12dev&style=flat-square&color=blue"/>
 </p>
 
 ---
 
-## About
+## About Me
 
-Full Stack Java Developer focused on building scalable backend systems and real-world web applications.
+I am a **Full Stack Java Developer** passionate about building scalable backend systems and real-world web applications.
 
 • B.Tech Computer Science — Teerthanker Mahaveer University
 • Strong in Data Structures & Algorithms
-• Experience with Spring Boot, React, Node.js
-• Built real-world applications and AI models
+• Backend development with Spring Boot
+• Experience in AI/ML and Deep Learning projects
 
 ---
 
@@ -45,9 +44,9 @@ Full Stack Java Developer focused on building scalable backend systems and real-
 
 <p align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=satwik12dev&show_icons=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=satwik12dev&show_icons=true&theme=default&count_private=true"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwik12dev&layout=compact"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwik12dev&layout=compact"/>
 
 </p>
 
@@ -56,48 +55,81 @@ Full Stack Java Developer focused on building scalable backend systems and real-
 ## GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=satwik12dev"/>
+<img src="https://streak-stats.demolab.com?user=satwik12dev&theme=default"/>
 </p>
 
 ---
 
-## Contribution Activity
+## Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satwik12dev"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satwik12dev&theme=github"/>
 </p>
 
 ---
 
-## Projects
+## Featured Projects
 
-• **EzyTranShip** — Vehicle booking platform
-React • Node.js • Firebase
+### EzyTranShip
 
-• **Hospital Management System**
-Java • JDBC • MySQL
+Vehicle booking platform connecting users with commercial drivers.
 
-• **Portfolio Website**
-HTML • CSS • JavaScript
-
-• **Spring Boot REST API**
-Java • Spring Boot
-
-• **File Hider App**
-Java
-
-• **Cat vs Dog Image Classifier**
-Python • TensorFlow
-
-• **Python Snake Game**
-Python
+Tech: React • Node.js • Firebase
 
 ---
 
-## Achievements
+### Hospital Management System
+
+Application to manage patients, doctors and appointments.
+
+Tech: Java • JDBC • MySQL
+
+---
+
+### Portfolio Website
+
+Personal developer portfolio website.
+
+Tech: HTML • CSS • JavaScript
+
+---
+
+### Spring Boot REST API
+
+Backend system providing REST APIs.
+
+Tech: Java • Spring Boot
+
+---
+
+### File Hider App
+
+Secure application to hide personal files.
+
+Tech: Java
+
+---
+
+### Cat vs Dog Image Classifier
+
+Deep learning CNN model for image classification.
+
+Tech: Python • TensorFlow
+
+---
+
+### Python Snake Game
+
+Classic snake game built using Python.
+
+Tech: Python
+
+---
+
+## GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=satwik12dev&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=satwik12dev&theme=flat&row=1&column=6"/>
 </p>
 
 ---
@@ -106,6 +138,26 @@ Python
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/satwik12dev/satwik12dev/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## Contact Me
+
+<p align="center">
+
+<a href="mailto:satwiksaxena41@gmail.com">
+<img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/satwik-12-dev">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://satwiksaxena-30fb9.web.app/">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
