@@ -1,131 +1,143 @@
-<h1 align="center">Hi 👋, I'm Satwik Saxena</h1>
+<!-- MATRIX CYBERPUNK HEADER -->
 
 <p align="center">
-  <b>Full-Stack Web Developer</b> • <b>Backend & Database Focused</b><br/>
-  B.Tech Computer Science @ TMU Moradabad<br/>
-  Strong in DSA, OOPs, SQL & System Fundamentals
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SATWIK%20SAXENA&fontSize=60&color=0:00ff9c,100:006eff&stroke=00ff9c&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-  <a href="mailto:satwiksaxena41@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/satwik-12-dev">LinkedIn</a> •
-  <a href="https://satwiksaxena-30fb9.web.app/">Portfolio</a>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Backend+Engineer;AI+%2F+ML+Explorer;System+Design+Learner"/>
 </p>
-
-<hr/>
-
-<h2>📌 Profile Snapshot</h2>
-
-<ul>
-  <li>🎓 Final-year <b>B.Tech Computer Science</b> student</li>
-  <li>💻 Interested in <b>Software Engineering, Backend & Full-Stack roles</b></li>
-  <li>🧠 Strong foundation in <b>DSA, OOPs, DBMS, OS & Computer Networks</b></li>
-  <li>⚙️ Experience building <b>scalable, real-world applications</b></li>
-  <li>✍️ Enjoy breaking down complex problems into simple solutions</li>
-</ul>
-
-<hr/>
-
-<h2>🛠 Technical Skills</h2>
-
-<h4>Languages</h4>
-<p>Java • Python • JavaScript • SQL</p>
-
-<h4>Web & Backend</h4>
-<p>React • Node.js • Django • REST APIs • JDBC</p>
-
-<h4>Databases</h4>
-<p>PostgreSQL • MySQL • Relational Database Design</p>
-
-<h4>Core CS</h4>
-<p>Data Structures & Algorithms • OOPs • DBMS • Operating Systems • Computer Networks</p>
-
-<h4>Tools & Platforms</h4>
-<p>Git • Docker • Linux • Firebase</p>
-
-<hr/>
-
-<h2>📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satwik12dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://komarev.com/ghpvc/?username=satwik12dev&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge"/>
 </p>
 
-<hr/>
+---
 
-<h2>🚀 Featured Projects</h2>
+# 🧑‍💻 About Me
 
-<table>
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">Tech Stack</th>
-    <th align="left">Focus</th>
-  </tr>
+💻 **Full Stack Java Developer** passionate about building scalable software and backend systems.
 
-  <tr>
-    <td><b>Portfolio Website</b></td>
-    <td>HTML, CSS, JavaScript</td>
-    <td>Responsive UI, performance, clean design</td>
-  </tr>
+🎓 B.Tech Computer Science – **Teerthanker Mahaveer University**
 
-  <tr>
-    <td><b>Hospital Management System</b></td>
-    <td>Java, JDBC, SQL</td>
-    <td>CRUD operations, DB design, backend logic</td>
-  </tr>
+⚡ Highlights
 
-  <tr>
-    <td><b>Currency Converter</b></td>
-    <td>Java, REST API</td>
-    <td>API integration, error handling</td>
-  </tr>
+- Strong in **Java, Spring Boot, React, Node.js**
+- Built **EzyTranShip Vehicle Booking Platform**
+- Developed **Deep Learning CNN image classifier**
+- Strong CS fundamentals **DSA, OOP, DBMS, OS**
 
-  <tr>
-    <td><b>Student Management System</b></td>
-    <td>Java, File Handling</td>
-    <td>OOP concepts, data persistence</td>
-  </tr>
-</table>
+---
 
+# ⚡ Tech Stack
+
+### Languages
 <p>
-  🔗 <b>Live Portfolio:</b>
-  <a href="https://satwiksaxena-30fb9.web.app/">https://satwiksaxena-30fb9.web.app/</a>
+<img src="https://skillicons.dev/icons?i=java,python,js,sql"/>
 </p>
 
-<hr/>
-
-<h2>🏆 Certifications & Achievements</h2>
-
-<ul>
-  <li>🏅 <b>IBM Certification</b> – 90% in Cloud & Web Technologies</li>
-  <li>⭐ <b>HackerRank Advanced SQL</b> Certification</li>
-  <li>💻 Built multiple real-world and academic projects</li>
-  <li>🎯 Active participant in hackathons & coding challenges</li>
-</ul>
-
-<hr/>
-
-<h2>📚 Currently Focused On</h2>
-
-<ul>
-  <li>Advanced <b>Data Structures & Algorithms</b></li>
-  <li>Backend systems with <b>Django REST Framework</b></li>
-  <li>Scalable database design using <b>PostgreSQL</b></li>
-  <li>System design basics for backend roles</li>
-</ul>
-
-<hr/>
-
-<h2>📬 Contact</h2>
-
+### Frontend
 <p>
-  📧 <b>Email:</b> satwiksaxena41@gmail.com <br/>
-  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/satwik-12-dev">linkedin.com/in/satwik-12-dev</a>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
 </p>
 
-<hr/>
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
+</p>
+
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,idea"/>
+</p>
+
+---
+
+# 📊 GitHub Cyber Dashboard
 
 <p align="center">
-  <b>Actively seeking Software Engineer / Backend / Full-Stack roles.</b><br/>
-  Open to internships, full-time opportunities & collaborations 🚀
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=satwik12dev&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwik12dev&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=satwik12dev&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satwik12dev&theme=chartreuse-dark"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=satwik12dev&theme=matrix&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|------|-------------|-----------|------|
+| **EzyTranShip** | Vehicle booking platform connecting users with drivers | React, Node.js, Firebase | [View Project](https://github.com/satwik12dev) |
+| **Hospital Management System** | Backend system for hospital records and patient management | Java, JDBC, MySQL | [Repository](https://github.com/satwik12dev) |
+| **Portfolio Website** | Personal portfolio website showcasing projects | HTML, CSS, JavaScript | [Live Site](https://satwiksaxena-30fb9.web.app/) |
+| **Spring Boot Application** | Backend REST API application with database integration | Java, Spring Boot, MySQL | [Repository](https://github.com/satwik12dev) |
+| **Snake Game (Python)** | Classic snake game implemented in Python | Python | [Repository](https://github.com/satwik12dev) |
+| **Cat vs Dog Image Classifier** | Deep learning CNN image classifier deployed with Streamlit | Python, TensorFlow | [Repository](https://github.com/satwik12dev) |
+| **File Hider App** | Secure application to hide personal files | Java | [Repository](https://github.com/satwik12dev) |
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/satwik12dev/satwik12dev/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 📬 Connect With Me
+
+<p align="center">
+
+<a href="mailto:satwiksaxena41@gmail.com">
+<img src="https://img.shields.io/badge/Email-00ff9c?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<a href="https://www.linkedin.com/in/satwik-12-dev">
+<img src="https://img.shields.io/badge/LinkedIn-00ff9c?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="https://satwiksaxena-30fb9.web.app/">
+<img src="https://img.shields.io/badge/Portfolio-00ff9c?style=for-the-badge&logo=firefox&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ **Open to Software Engineer / Backend / Full Stack roles**
+
 </p>
