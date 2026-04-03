@@ -28,8 +28,8 @@
 
 | Category              | Skills                                                          |
 | --------------------- | --------------------------------------------------------------- |
-| **Languages**         | Java, Python, JavaScript, SQL                                   |
-| **Web & Backend**     | React, Node.js, Django, REST APIs, JDBC                         |
+| **Languages**         | Java, Python, JavaScript,                                   |
+| **Web & Backend**     | React, Node.js, REST APIs, JDBC                         |
 | **Databases**         | PostgreSQL, MySQL, Relational Database Design                   |
 | **Core CS**           | Data Structures & Algorithms, OOPs, DBMS, OS, Computer Networks |
 | **Tools & Platforms** | Git, Docker, Linux, Firebase                                    |
