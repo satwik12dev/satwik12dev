@@ -52,6 +52,7 @@
 | **Hospital Management System** | Java, JDBC, SQL       | CRUD operations, DB design, backend logic |
 | **Currency Converter**         | Java, REST API        | API integration, error handling           |
 | **Student Management System**  | Java, File Handling   | OOP concepts, data persistence            |
+| **Role Management System**     | Node.js, React, HTML  | RBAC, Backend |
 
 🔗 **Live Portfolio:**
 https://satwiksaxena-30fb9.web.app/
@@ -70,7 +71,7 @@ https://satwiksaxena-30fb9.web.app/
 ## 📚 Currently Focused On
 
 * Advanced **Data Structures & Algorithms**
-* Backend systems with **Django REST Framework**
+* Backend systems with **REST Framework**
 * Scalable database design using **PostgreSQL**
 * System design basics for backend roles
 
