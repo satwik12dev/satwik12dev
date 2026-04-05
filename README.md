@@ -16,11 +16,11 @@
 
 ## 📌 Profile Snapshot
 
-* 🎓 Final-year **B.Tech Computer Science** student
-* 💻 Interested in **Software Engineering, Backend & Full-Stack roles**
-* 🧠 Strong foundation in **DSA, OOPs, DBMS, OS & Computer Networks**
-* ⚙️ Experience building **scalable, real-world applications**
-* ✍️ Enjoy breaking down complex problems into simple solutions
+- 🎓 Final-year **B.Tech Computer Science** student  
+- 💻 Interested in **Software Engineering, Backend & Full-Stack roles**  
+- 🧠 Strong in **DSA, OOPs, DBMS, OS & Computer Networks**  
+- ⚙️ Built **real-world scalable applications**  
+- ✍️ Problem-solver with clean and efficient coding approach  
 
 ---
 
@@ -28,15 +28,63 @@
 
 | Category              | Skills                                                          |
 | --------------------- | --------------------------------------------------------------- |
-| **Languages**         | Java, Python, JavaScript,                                   |
-| **Web & Backend**     | React, Node.js, REST APIs, JDBC                         |
-| **Databases**         | PostgreSQL, MySQL, Relational Database Design                   |
-| **Core CS**           | Data Structures & Algorithms, OOPs, DBMS, OS, Computer Networks |
-| **Tools & Platforms** | Git, Docker, Linux, Firebase                                    |
+| **Languages**         | Java, Python, JavaScript                                       |
+| **Web & Backend**     | React, Node.js, Express, REST APIs, JDBC                       |
+| **Databases**         | PostgreSQL, MySQL, Relational Database Design                  |
+| **Core CS**           | DSA, OOPs, DBMS, OS, Computer Networks                         |
+| **Tools & Platforms** | Git, Docker, Linux, Firebase                                  |
 
 ---
 
-## 📊 GitHub Activity
+## 🚀 Projects
+
+### 🔥 EzyTranship – Logistics Booking Platform
+- 🚚 Full-stack platform for vehicle & driver booking  
+- 🧠 Smart driver allocation using route optimization logic  
+- 🔐 Authentication system with user & driver dashboards  
+- ⚡ Scalable REST APIs for booking and tracking  
+- 🎯 Responsive UI with optimized performance  
+
+---
+
+### 🔐 Role-Based Access Control (RBAC) System
+- Implemented secure authentication & authorization  
+- Managed roles: **Admin, User, Manager**  
+- Protected routes and backend APIs  
+- Improved system security and modular architecture  
+
+---
+
+### 🏥 Hospital Management System
+- Managed patients, doctors, and appointments  
+- Implemented CRUD operations using SQL  
+- Designed normalized relational database  
+- Applied OOP principles for maintainability  
+
+---
+
+### 🌐 Portfolio Website
+- Fully responsive personal portfolio  
+- Clean UI/UX and performance optimized  
+- Deployed using Firebase  
+
+---
+
+### 💱 Currency Converter
+- Real-time currency conversion using REST APIs  
+- Implemented error handling and fallback logic  
+- Lightweight and efficient design  
+
+---
+
+### 🎓 Student Management System
+- File-based data storage system  
+- Applied OOP concepts (encapsulation, abstraction)  
+- Efficient record management  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satwik12dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -44,43 +92,28 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project                        | Tech Stack            | Focus                                     |
-| ------------------------------ | --------------------- | ----------------------------------------- |
-| **Portfolio Website**          | HTML, CSS, JavaScript | Responsive UI, performance, clean design  |
-| **Hospital Management System** | Java, JDBC, SQL       | CRUD operations, DB design, backend logic |
-| **Currency Converter**         | Java, REST API        | API integration, error handling           |
-| **Student Management System**  | Java, File Handling   | OOP concepts, data persistence            |
-| **Role Management System**     | Node.js, React, HTML  | RBAC, Backend |
-
-🔗 **Live Portfolio:**
-https://satwiksaxena-30fb9.web.app/
-
----
-
 ## 🏆 Certifications & Achievements
 
-* 🏅 **IBM Certification** – 90% in Cloud & Web Technologies
-* ⭐ **HackerRank Advanced SQL Certification**
-* 💻 Built multiple real-world and academic projects
-* 🎯 Active participant in hackathons & coding challenges
+- 🏅 IBM Certification – 90% in Cloud & Web Technologies  
+- ⭐ HackerRank Advanced SQL Certification  
+- 💻 Built multiple real-world and academic projects  
+- 🎯 Active in hackathons and coding challenges  
 
 ---
 
-## 📚 Currently Focused On
+## 📚 Currently Learning
 
-* Advanced **Data Structures & Algorithms**
-* Backend systems with **REST Framework**
-* Scalable database design using **PostgreSQL**
-* System design basics for backend roles
+- Advanced **Data Structures & Algorithms**  
+- Backend development with **Node.js & REST APIs**  
+- **PostgreSQL & scalable database design**  
+- System Design fundamentals  
 
 ---
 
 ## 📬 Contact
 
-* 📧 **Email:** [satwiksaxena41@gmail.com](mailto:satwiksaxena41@gmail.com)
-* 💼 **LinkedIn:** https://www.linkedin.com/in/satwik-12-dev
+- 📧 Email: satwiksaxena41@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/satwik-12-dev  
 
 ---
 
