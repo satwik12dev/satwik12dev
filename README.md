@@ -97,7 +97,8 @@
 - 🏅 IBM Certification – 90% in Cloud & Web Technologies  
 - ⭐ HackerRank Advanced SQL Certification  
 - 💻 Built multiple real-world and academic projects  
-- 🎯 Active in hackathons and coding challenges  
+- 🎯 Active in hackathons and coding challenges
+- 🅿️ Guvi x HCL Python certificates
 
 ---
 
