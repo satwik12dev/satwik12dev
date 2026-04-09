@@ -18,7 +18,7 @@
 
 - 🎓 Final-year **B.Tech Computer Science** student  
 - 💻 Interested in **Software Engineering, Backend & Full-Stack roles**  
-- 🧠 Strong in **DSA, OOPs, DBMS, OS & Computer Networks**  
+- 🧠 Strong in **DSA, OOPs, DBMS, OS Computer Networks & System Design**  
 - ⚙️ Built **real-world scalable applications**  
 - ✍️ Problem-solver with clean and efficient coding approach  
 
