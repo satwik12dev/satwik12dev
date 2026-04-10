@@ -3,7 +3,7 @@
 <p align="center">
   <b>Full-Stack Web Developer</b> • <b>Backend & Database Focused</b><br/>
   B.Tech Computer Science @ TMU Moradabad<br/>
-  Strong in DSA, OOPs, SQL & System Fundamentals
+  Strong in DSA, OOPs, SQL & System Design.
 </p>
 
 <p align="center">
