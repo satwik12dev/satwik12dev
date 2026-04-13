@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satwik Saxena</h1>
+<h1 align="center">Hi, I'm Satwik Saxena</h1>
 
 <p align="center">
   <b>Full-Stack Web Developer</b> • <b>Backend & Database Focused</b><br/>
