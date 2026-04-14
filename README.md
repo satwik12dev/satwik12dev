@@ -32,7 +32,7 @@
 | **Web & Backend**     | React, Node.js, Express, REST APIs, JDBC                       |
 | **Databases**         | PostgreSQL, MySQL, Relational Database Design                  |
 | **Core CS**           | DSA, OOPs, DBMS, OS, Computer Networks                         |
-| **Tools & Platforms** | Git, Docker, Linux, Firebase                                  |
+| **Tools & Platforms** | Git, Docker, Linux, Firebase, Power BI                                  |
 
 ---
 
