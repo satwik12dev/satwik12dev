@@ -31,7 +31,7 @@
 | **Languages**         | Java, Python, JavaScript                                       |
 | **Web & Backend**     | React, Node.js, Express, REST APIs, JDBC                       |
 | **Databases**         | PostgreSQL, MySQL, Relational Database Design                  |
-| **Core CS**           | DSA, OOPs, DBMS, OS, Computer Networks                         |
+| **Core CS**           | DSA, OOPs, DBMS, OS, Computer Networks , System Design                        |
 | **Tools & Platforms** | Git, Docker, Linux, Firebase, Power BI                                  |
 
 ---
