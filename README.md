@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full-Stack Web Developer</b> • <b>Backend & Database Focused</b><br/>
-  B.Tech Computer Science @ TMU Moradabad<br/>
+  B.Tech Computer Science @ TMU Moradabad with a aggregate of 9.18 GPA<br/>
   Strong in DSA, OOPs, SQL & System Design.
 </p>
 
