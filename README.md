@@ -4,7 +4,6 @@
   <b>Full-Stack Web Developer</b> • <b>Backend & Database Focused</b><br/>
   B.Tech Computer Science @ TMU Moradabad with a aggregate of 9.18 GPA<br/>
   Strong in DSA, OOPs, SQL, TOC & System Design.<br>
-  Knows Blockchain, Crytocurrency
 </p>
 
 <p align="center">
