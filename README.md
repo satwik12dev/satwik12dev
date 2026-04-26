@@ -106,9 +106,8 @@
 
 - 📧 Email: satwiksaxena41@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/satwik-12-dev  
-
 ---
 
 <p align="center">
-  <b>🚀 Actively seeking Software Engineer / Backend / Full-Stack roles</b>
+  <b>🚀 Actively seeking Software Engineer Development/ Backend / Full-Stack roles</b>
 </p>
