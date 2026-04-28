@@ -16,7 +16,7 @@
 
 ## 📌 Profile Snapshot
 
-- 🎓 Final-year **B.Tech Computer Science** student  
+- 🎓 Pursuing Under Graduate i.e. **B.Tech Computer Science** student  
 - 💻 Interested in **Software Engineering, Backend & Full-Stack roles**  
 - 🧠 Strong in **DSA, OOPs, DBMS, OS Computer Networks & System Design**  
 - ⚙️ Built **real-world scalable applications**  
