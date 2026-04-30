@@ -52,7 +52,6 @@
 - Managed roles: **Admin, User, Manager**  
 - Protected routes and backend APIs  
 - Improved system security and modular architecture
-- ### Live Link: https://incomparable-speculoos-1b4ee0.netlify.app/
 
 ---
 
