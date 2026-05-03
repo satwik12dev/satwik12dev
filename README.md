@@ -70,13 +70,6 @@
 
 ---
 
-### 💱 Currency Converter
-- Real-time currency conversion using REST APIs  
-- Implemented error handling and fallback logic  
-- Lightweight and efficient design  
-
----
-
 ### 🎓 Student Management System
 - File-based data storage system  
 - Applied OOP concepts (encapsulation, abstraction)  
