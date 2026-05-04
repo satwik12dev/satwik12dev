@@ -82,7 +82,6 @@
 - 💻 Built multiple real-world and academic projects  
 - 🎯 Active in hackathons and coding challenges
 - 🅿️ Guvi x HCL Python certificates
-- TCS IoN
 ---
 
 ## 📚 Currently Learning
