@@ -89,8 +89,7 @@
 - Advanced **Data Structures & Algorithms**  
 - Backend development with **Node.js & REST APIs**  
 - **PostgreSQL & scalable database design**  
-- System Design fundamentals  
-
+- **System Design fundamentals** 
 ---
 
 ## 📬 Contact
