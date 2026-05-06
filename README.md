@@ -99,5 +99,5 @@
 ---
 
 <p align="center">
-  <b>🚀 Actively seeking Software Engineer Development/ Backend / Full-Stack roles</b>
+  <b>🚀 Actively seeking Software Engineer Development/ Backend roles/ Full-Stack roles</b>
 </p>
