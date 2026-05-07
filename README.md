@@ -73,17 +73,16 @@
 ### 🎓 Student Management System
 - File-based data storage system  
 - Applied OOP concepts (encapsulation, abstraction)  
-- Efficient record management  
+- Efficient record management
 
+  
 ## 🏆 Certifications & Achievements
-
 - 🏅 IBM Certification – 90% in Cloud & Web Technologies  
 - ⭐ HackerRank Advanced SQL Certification  
 - 💻 Built multiple real-world and academic projects  
 - 🎯 Active in hackathons and coding challenges
 - 🅿️ Guvi x HCL Python certificates
 ---
-
 ## 📚 Currently Learning
 
 - Advanced **Data Structures & Algorithms**  
