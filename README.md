@@ -144,32 +144,14 @@ Full-Stack Developer • Backend Engineer • Problem Solver
 - Docker & Cloud Deployment
 
 ---
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 # 🌐 Connect With Me
-
 <p align="center">
   <a href="mailto:satwiksaxena41@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/satwik-12-dev">💼 LinkedIn</a> •
   <a href="https://satwiksaxena-30fb9.web.app/">🌐 Portfolio</a>
 </p>
-
 ---
 
 <h3 align="center">
 🚀 Open to Software Engineering, Backend & Full-Stack Opportunities
 </h3>
-```
