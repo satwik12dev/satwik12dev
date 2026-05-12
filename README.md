@@ -88,7 +88,7 @@ Full-Stack Developer • Backend Engineer • Problem Solver
 🔹 Improved modular architecture & security practices
 
 **Tech Stack:**  
-`Node.js` `Express.js` `JWT` `SQL`
+`Node.js` `Express.js` `JWT` `SQL` `React`
 
 ---
 
