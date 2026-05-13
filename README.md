@@ -35,6 +35,7 @@ Full-Stack Developer • Backend Engineer • Problem Solver
   - Object-Oriented Programming
   - DBMS, Operating Systems & Computer Networks
   - System Design & REST APIs
+  - Theory of Computation & Computer Network
 - ⚡ Focused on building scalable and real-world applications
 - 🎯 Active problem solver with clean coding practices
 
@@ -161,3 +162,4 @@ Full-Stack Developer • Backend Engineer • Problem Solver
 🚀 Open to Software Engineering, Backend & Full-Stack Opportunities
 </h3>
 ```
+
