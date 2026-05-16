@@ -23,7 +23,6 @@ Full-Stack Developer • Backend Engineer • Problem Solver
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
----
 
 # 🚀 About Me
 
