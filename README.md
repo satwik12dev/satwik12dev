@@ -23,7 +23,6 @@ Full-Stack Developer • Backend Engineer • Problem Solver
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 # 🚀 About Me
@@ -35,7 +34,8 @@ Full-Stack Developer • Backend Engineer • Problem Solver
   - Object-Oriented Programming
   - DBMS, Operating Systems & Computer Networks
   - System Design & REST APIs
-  - Theory of Computation & Computer Network
+  - Theory of Computation
+  - DataBase Schema Design
 - ⚡ Focused on building scalable and real-world applications
 - 🎯 Active problem solver with clean coding practices
 
