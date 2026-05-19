@@ -35,6 +35,7 @@ Full-Stack Developer • Backend Engineer • Problem Solver
   - System Design & REST APIs
   - Theory of Computation
   - DataBase Schema Design
+  - Mobile Computing
 - ⚡ Focused on building scalable and real-world applications
 - 🎯 Active problem solver with clean coding practices
 
