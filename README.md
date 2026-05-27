@@ -161,5 +161,3 @@ Full-Stack Developer • Backend Engineer • Problem Solver
 <h3 align="center">
 🚀 Open to Software Engineering, Backend & Full-Stack Opportunities
 </h3>
-```
-
