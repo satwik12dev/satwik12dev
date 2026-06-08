@@ -19,7 +19,7 @@ Full-Stack Developer • Backend Engineer • Problem Solver
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://satwiksaxena-30fb9.web.app/">
+  <a href="https://portfolio-website-satwik-12-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
