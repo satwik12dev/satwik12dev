@@ -153,7 +153,7 @@ Full-Stack Developer • Backend Engineer • Problem Solver
 <p align="center">
   <a href="mailto:satwiksaxena41@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/satwik-12-dev">💼 LinkedIn</a> •
-  <a href="https://satwiksaxena-30fb9.web.app/">🌐 Portfolio</a>
+  <a href="https://portfolio-website-satwik-12-dev.vercel.app/">🌐 Portfolio</a>
 </p>
 
 ---
