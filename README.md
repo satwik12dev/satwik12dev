@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Satwik Saxena
 
-### Full-Stack Developer | Backend Engineer | Java Enthusiast
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Engineer;Java+%26+Spring+Boot+Developer;Building+Scalable+Applications" alt="Typing SVG" />
 </p>
@@ -144,20 +142,31 @@ Professional portfolio showcasing projects, skills, and achievements.
 `React` `Firebase` `CSS`
 
 ---
+### 📄 AI Resume Analyzer
 
-### 🎓 Student Management System
-
-Java-based application for managing student records using file handling.
+An intelligent resume analysis platform that evaluates resumes against job descriptions using Natural Language Processing and Machine Learning techniques.
 
 #### Key Highlights
 
-* Object-Oriented Programming concepts
-* Data persistence through file handling
-* Efficient record management system
+* Developed an AI-powered resume screening system to analyze candidate resumes
+* Extracted and processed resume content from PDF documents
+* Implemented keyword matching and skill-gap analysis against job descriptions
+* Generated resume scores based on relevance and ATS compatibility
+* Provided actionable recommendations to improve resume quality
+* Built an interactive and user-friendly dashboard for resume evaluation
 
 **Tech Stack**
 
-`Java` `File Handling`
+`Python` `Machine Learning` `NLP` `Streamlit` `Scikit-Learn` `Pandas` `PDF Processing`
+
+#### Core Features
+
+* Resume Parsing
+* ATS Score Calculation
+* Job Description Matching
+* Skill Gap Detection
+* Resume Recommendations
+* PDF Upload & Analysis
 
 ---
 
