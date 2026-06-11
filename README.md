@@ -142,31 +142,41 @@ Professional portfolio showcasing projects, skills, and achievements.
 `React` `Firebase` `CSS`
 
 ---
-### 📄 AI Resume Analyzer
+### 🤖 Resume Analyzer(AI-Powered)
 
-An intelligent resume analysis platform that evaluates resumes against job descriptions using Natural Language Processing and Machine Learning techniques.
+An intelligent resume analysis platform that leverages Google's Gemini AI to evaluate resumes, match them against job descriptions, and provide actionable career recommendations.
 
 #### Key Highlights
 
-* Developed an AI-powered resume screening system to analyze candidate resumes
-* Extracted and processed resume content from PDF documents
-* Implemented keyword matching and skill-gap analysis against job descriptions
-* Generated resume scores based on relevance and ATS compatibility
-* Provided actionable recommendations to improve resume quality
-* Built an interactive and user-friendly dashboard for resume evaluation
+* Built an AI-powered resume screening system using Google Gemini API
+* Implemented resume parsing and content extraction from PDF documents
+* Developed job description matching and ATS score evaluation features
+* Generated personalized improvement suggestions for resumes using LLM-based analysis
+* Designed secure REST APIs for resume processing and AI interactions
+* Containerized the application using Docker for consistent deployment
+* Built a responsive and modern user interface for seamless user experience
 
 **Tech Stack**
 
-`Python` `Machine Learning` `NLP` `Streamlit` `Scikit-Learn` `Pandas` `PDF Processing`
+`React.js` `Node.js` `Express.js` `Google Gemini API` `Docker` `JavaScript` `REST APIs`
 
 #### Core Features
 
-* Resume Parsing
-* ATS Score Calculation
+* AI Resume Review
+* ATS Score Analysis
 * Job Description Matching
-* Skill Gap Detection
-* Resume Recommendations
-* PDF Upload & Analysis
+* Skill Gap Identification
+* AI-Powered Resume Suggestions
+* PDF Upload & Processing
+* Dockerized Deployment
+
+#### Impact
+
+* Automated resume evaluation process
+* Reduced manual screening effort through AI-driven analysis
+* Generated detailed feedback reports within seconds
+* Improved resume optimization for ATS-based recruitment systems
+
 
 ---
 
