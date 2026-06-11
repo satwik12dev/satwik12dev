@@ -1,163 +1,205 @@
+# Hi there 👋, I'm Satwik Saxena
 
-<h1 align="center">Hi 👋, I'm Satwik Saxena</h1>
-
-<h3 align="center">
-Full-Stack Developer • Backend Engineer • Problem Solver
-</h3>
+### Full-Stack Developer | Backend Engineer | Java Enthusiast
 
 <p align="center">
-🎓 B.Tech Computer Science @ TMU Moradabad (CGPA: 9.18) <br/>
-💻 Passionate about Backend Systems, Full-Stack Development & Scalable Applications
-</p>
-
-<p align="center">
-  <a href="mailto:satwiksaxena41@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/satwik-12-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://portfolio-website-satwik-12-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</p>
-
-# 🚀 About Me
-
-- 🎓 Computer Science Undergraduate at **TMU Moradabad**
-- 💡 Interested in **Software Engineering, Backend Development & Full-Stack Systems**
-- 🧠 Strong understanding of:
-  - Data Structures & Algorithms
-  - Object-Oriented Programming
-  - DBMS, Operating Systems & Computer Networks
-  - System Design & REST APIs
-  - Theory of Computation
-  - DataBase Schema Design
-  - Mobile Computing
-- ⚡ Focused on building scalable and real-world applications
-- 🎯 Active problem solver with clean coding practices
-
----
-
-# 🛠 Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp" />
-</p>
-
-### 🌐 Web & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css" />
-</p>
-
-### 🗄 Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
-</p>
-
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,github,vscode" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Engineer;Java+%26+Spring+Boot+Developer;Building+Scalable+Applications" alt="Typing SVG" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 About Me
 
-## 🚚 EzyTranship – Logistics Booking Platform
-### Full-Stack Logistics & Vehicle Booking System
+I'm a Computer Science undergraduate passionate about designing and building scalable software systems. I enjoy solving real-world problems through clean architecture, efficient backend systems, and modern web technologies.
 
-🔹 Built a scalable logistics platform for vehicle and driver booking  
-🔹 Implemented secure authentication & role-based dashboards  
-🔹 Designed REST APIs for booking, tracking & driver management  
-🔹 Added route optimization logic for smart driver allocation  
-🔹 Responsive UI with optimized performance
+* 🎓 B.Tech Computer Science Engineering, TMU Moradabad
+* 📈 CGPA: **9.18**
+* 💻 Focused on Backend Development, Full-Stack Engineering & System Design
+* 🧠 Strong foundation in DSA, OOP, DBMS, Operating Systems, Computer Networks, and Software Engineering
+* 🚀 Passionate about building production-ready applications
+* 🌱 Currently exploring Spring Boot, Cloud Technologies, Docker, and Distributed Systems
 
-**Tech Stack:**  
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:satwiksaxena41@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/satwik-12-dev">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-website-satwik-12-dev.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Technical Skills
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp" />
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🚚 EzyTranship – Logistics & Vehicle Booking Platform
+
+A full-stack logistics management platform enabling vehicle booking, driver allocation, and shipment management.
+
+#### Key Highlights
+
+* Designed role-based dashboards for clients and drivers
+* Developed RESTful APIs for booking and tracking workflows
+* Implemented authentication and authorization mechanisms
+* Optimized database operations for efficient booking management
+* Built responsive and user-friendly interfaces
+
+**Tech Stack**
+
 `React` `Node.js` `Express.js` `PostgreSQL` `Firebase`
 
 ---
 
-## 🔐 Role-Based Access Control (RBAC) System
+### 🔐 Authentication & RBAC Management System
 
-🔹 Developed secure authentication & authorization system  
-🔹 Implemented roles: **Admin, Manager & User**  
-🔹 Protected frontend routes and backend APIs  
-🔹 Improved modular architecture & security practices
+Secure authentication and authorization platform implementing Role-Based Access Control.
 
-**Tech Stack:**  
-`Node.js` `Express.js` `JWT` `SQL` `React`
+#### Key Highlights
 
----
+* JWT-based authentication system
+* Multi-role architecture (Admin, Manager, User)
+* Protected API endpoints and frontend routes
+* Scalable modular backend architecture
+* Security-focused access management
 
-## 🏥 Hospital Management System
+**Tech Stack**
 
-🔹 Managed patients, doctors & appointments  
-🔹 Implemented CRUD operations using SQL  
-🔹 Designed normalized relational database schemas  
-🔹 Applied OOP concepts for maintainable architecture
-
-**Tech Stack:**  
-`Java` `MySQL` `JDBC`
+`Node.js` `Express.js` `JWT` `PostgreSQL` `React`
 
 ---
 
-## 🌐 Personal Portfolio Website
+### 🏥 Hospital Management System
 
-🔹 Responsive personal portfolio website  
-🔹 Performance optimized & modern UI/UX  
-🔹 Deployed using Firebase Hosting
+Desktop-based management solution for handling patient and appointment records.
 
-**Tech Stack:**  
+#### Key Highlights
+
+* CRUD operations for patients and doctors
+* JDBC integration with MySQL
+* Normalized database schema design
+* Object-Oriented architecture implementation
+
+**Tech Stack**
+
+`Java` `JDBC` `MySQL`
+
+---
+
+### 🌐 Personal Portfolio Website
+
+Professional portfolio showcasing projects, skills, and achievements.
+
+#### Key Highlights
+
+* Responsive design across devices
+* Optimized loading performance
+* Modern UI/UX principles
+* Continuous deployment pipeline
+
+**Tech Stack**
+
 `React` `Firebase` `CSS`
 
 ---
 
-## 🎓 Student Management System
+### 🎓 Student Management System
 
-🔹 File-based data storage management system  
-🔹 Applied OOP concepts like abstraction & encapsulation  
-🔹 Efficient student record handling
+Java-based application for managing student records using file handling.
 
-**Tech Stack:**  
+#### Key Highlights
+
+* Object-Oriented Programming concepts
+* Data persistence through file handling
+* Efficient record management system
+
+**Tech Stack**
+
 `Java` `File Handling`
 
 ---
 
-# 🏆 Certifications & Achievements
+## 🏆 Certifications
 
-- 🏅 IBM Certification – Cloud & Web Technologies (90%)
-- ⭐ HackerRank Advanced SQL Certification
-- 🐍 GUVI x HCL Python Certifications
-- 💻 Built multiple real-world & academic projects
-- 🎯 Active participant in coding contests & hackathons
-
----
-
-# 📚 Currently Learning
-
-- Advanced Data Structures & Algorithms
-- Backend Engineering with Node.js
-- PostgreSQL & Scalable Database Design
-- System Design Fundamentals
-- Docker & Cloud Deployment
+* IBM Certification – Cloud & Web Technologies
+* HackerRank Advanced SQL Certification
+* GUVI x HCL Python Certification
+* Multiple Project-Based Software Development Certifications
 
 ---
 
+## 📚 Currently Learning
 
-# 🌐 Connect With Me
+* Spring Boot & Enterprise Java Development
+* Advanced Data Structures & Algorithms
+* System Design Fundamentals
+* PostgreSQL Optimization
+* Docker & Containerization
+* Cloud Computing & Deployment
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="mailto:satwiksaxena41@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/satwik-12-dev">💼 LinkedIn</a> •
-  <a href="https://portfolio-website-satwik-12-dev.vercel.app/">🌐 Portfolio</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=satwik12dev&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwik12dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=satwik12dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<h3 align="center">
-🚀 Open to Software Engineering, Backend & Full-Stack Opportunities
-</h3>
+## 🎯 Career Objective
+
+Seeking Software Engineering, Backend Development, and Full-Stack Development opportunities where I can contribute to impactful products, solve challenging problems, and continuously grow as an engineer.
+
+---
+
+<p align="center">
+⭐ Building scalable software one project at a time.
+</p>
