@@ -211,7 +211,9 @@ An intelligent resume analysis platform that leverages Google's Gemini AI to eva
 ---
 
 ## 🎯 Career Objective
+
 Seeking Software Engineering, Backend Development, and Full-Stack Development opportunities where I can contribute to impactful products, solve challenging problems, and continuously grow as an engineer.
+
 ---
 
 <p align="center">
