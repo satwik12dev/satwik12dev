@@ -126,22 +126,6 @@ Desktop-based management solution for handling patient and appointment records.
 
 ---
 
-### 🌐 Personal Portfolio Website
-
-Professional portfolio showcasing projects, skills, and achievements.
-
-#### Key Highlights
-
-* Responsive design across devices
-* Optimized loading performance
-* Modern UI/UX principles
-* Continuous deployment pipeline
-
-**Tech Stack**
-
-`React` `Firebase` `CSS`
-
----
 ### 🤖 Resume Analyzer(AI-Powered)
 
 An intelligent resume analysis platform that leverages Google's Gemini AI to evaluate resumes, match them against job descriptions, and provide actionable career recommendations.
