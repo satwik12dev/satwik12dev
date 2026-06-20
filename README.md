@@ -42,7 +42,7 @@ I'm a Computer Science undergraduate passionate about designing and building sca
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp" />
+<img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ### Frontend Development
@@ -60,7 +60,7 @@ I'm a Computer Science undergraduate passionate about designing and building sca
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql,MongoDB" />
 </p>
 
 ### Tools & Platforms
