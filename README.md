@@ -191,8 +191,6 @@ An intelligent resume analysis platform that leverages Google's Gemini AI to eva
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=satwik12dev&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
 ## 🎯 Career Objective
 
 Seeking Software Engineering, Backend Development, and Full-Stack Development opportunities where I can contribute to impactful products, solve challenging problems, and continuously grow as an engineer.
