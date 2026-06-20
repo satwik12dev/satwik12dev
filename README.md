@@ -190,6 +190,7 @@ An intelligent resume analysis platform that leverages Google's Gemini AI to eva
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=satwik12dev&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ## 🎯 Career Objective
