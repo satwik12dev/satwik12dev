@@ -60,7 +60,7 @@ I'm a Computer Science undergraduate passionate about designing and building sca
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,MongoDB" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### Tools & Platforms
