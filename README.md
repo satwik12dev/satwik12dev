@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Satwik Saxena
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Engineer;Java+%26;Building+Scalable+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Engineer;Java;Building+Scalable+Applications" alt="Typing SVG" />
 </p>
 
 ---
