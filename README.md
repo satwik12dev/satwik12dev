@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Satwik Saxena
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Engineer;Java+%26+Spring+Boot+Developer;Building+Scalable+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Engineer;Java+%26;Building+Scalable+Applications" alt="Typing SVG" />
 </p>
 
 ---
@@ -87,7 +87,7 @@ A full-stack logistics management platform enabling vehicle booking, driver allo
 
 **Tech Stack**
 
-`React` `Node.js` `Express.js` `PostgreSQL` `Firebase`
+`React` `Node.js` `Express.js` `Firebase`
 
 ---
 
