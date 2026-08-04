@@ -11,7 +11,7 @@
 I'm a Computer Science undergraduate passionate about designing and building scalable software systems. I enjoy solving real-world problems through clean architecture, efficient backend systems, and modern web technologies.
 
 * 🎓 B.Tech Computer Science Engineering, TMU Moradabad
-* 📈 CGPA: **9.18**
+* 📈 CGPA: **9.09**
 * 💻 Focused on Backend Development, Full-Stack Engineering & System Design
 * 🧠 Strong foundation in DSA, OOP, DBMS, Operating Systems, Computer Networks, and Software Engineering
 * 🚀 Passionate about building production-ready applications
