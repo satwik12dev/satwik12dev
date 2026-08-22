@@ -82,14 +82,14 @@ public class SatwikSaxena extends Developer {
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80"/>
 <br/><br/>
 <b>🏗️ Backend<br/>Engineering</b>
 <br/><br/>
 <sub>Spring Boot · Node.js<br/>REST APIs · Microservices</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="80"/>
 <br/><br/>
 <b>🎨 Frontend<br/>Development</b>
 <br/><br/>
