@@ -1,552 +1,350 @@
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
-
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:1a1a2e,100:7C3AED&text=SATWIK%20SAXENA&fontColor=ffffff&fontSize=70&desc=Backend%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20System%20Architect&descSize=17&descAlignY=62&animation=fadeIn&stroke=A78BFA&strokeWidth=1" width="100%"/>
+<!-- ═══════════════════════ ANIMATED CYBER HEADER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:0f172a,70:1e1b4b,100:0284c7&height=230&section=header&text=Satwik%20Saxena&fontSize=50&fontColor=38bdf8&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Cloud%20Native&descSize=16&descAlignY=62&descColor=cbd5e1&animation=twinkling" width="100%" alt="Satwik Saxena Header" />
 
-</div>
-
-<!-- Animated Typing -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=800&height=70&lines=%E2%9A%A1+Architecting+Scalable+Backend+Systems;%F0%9F%94%A5+Java+%C2%B7+Spring+Boot+%C2%B7+Node.js+%C2%B7+React;%F0%9F%A7%A0+DSA+%E2%80%A2+System+Design+%E2%80%A2+Cloud+Native;%F0%9F%8E%93+9.09+CGPA+%7C+CS+Undergrad+%40+TMU;%F0%9F%9A%80+Building+Production-Ready+Software" alt="Typing SVG" />
+<!-- Dynamic Animated Multi-line Typewriter -->
+<a href="https://github.com/satwik12dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&height=52&lines=Hi+there!+%F0%9F%91%8B+Welcome+to+my+digital+universe;Backend+%26+Distributed+Systems+Architect+%E2%9A%A1;Crafting+high-throughput+APIs+%26+event-driven+microservices+%F0%9F%9B%A0%EF%B8%8F;Turning+coffee+%E2%98%95+into+resilient%2C+zero-bottleneck+systems;Always+curious%2C+always+building%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- Social Links with Glow Effect -->
-<a href="https://www.linkedin.com/in/satwik-12-dev"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/></a>
-<img src="https://img.shields.io/badge/%20-0a0a0a?style=for-the-badge" height="28"/>
-<a href="https://portfolio-website-satwik-12-dev.vercel.app"><img src="https://img.shields.io/badge/-PORTFOLIO-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a"/></a>
-<img src="https://img.shields.io/badge/%20-0a0a0a?style=for-the-badge" height="28"/>
-<a href="mailto:satwiksaxena41@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a"/></a>
-<img src="https://img.shields.io/badge/%20-0a0a0a?style=for-the-badge" height="28"/>
-<img src="https://komarev.com/ghpvc/?username=satwik12dev&style=for-the-badge&color=A78BFA&labelColor=0a0a0a&label=VISITORS"/>
+<!-- Interactive Live Status & View Counter Badges -->
+<p align="center">
+  <a href="https://portfolio-website-satwik-12-dev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8&labelColor=020617&color=1e293b" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/satwik-12-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9&labelColor=020617&color=1e293b" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:satwiksaxena41@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=f87171&labelColor=020617&color=1e293b" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/satwik12dev">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=e2e8f0&labelColor=020617&color=1e293b" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=satwik12dev&label=Profile%20Views&color=0284c7&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<!-- Animated Glowing Divider -->
+<img src="assets/animated-divider.svg" width="100%" alt="divider" />
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ═══════════════════════ TERMINAL / HERO SHOWCASE ═══════════════════════ -->
 
-<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp;Who am I?
-
-```java
-public class SatwikSaxena extends Developer {
-
-  private final String university = "TMU Moradabad";
-  private final double cgpa       = 9.09;
-  private final String role       = "Backend Engineer";
-
-  private String[] loves = {
-    "Scalable System Design",
-    "Clean Architecture",
-    "Backend Engineering"
-  };
-
-  private String[] building = {
-    "Spring Boot Microservices",
-    "Cloud-native Apps",
-    "AI-powered Tools"
-  };
-
-  @Override
-  public String toString() {
-    return "CS undergrad turning caffeine into "
-         + "production-ready software";
-  }
-}
+<table width="100%" border="0">
+  <tr>
+    <td width="36%" align="center" valign="middle">
+      <img src="assets/stick_cat_typing.gif" width="280" alt="Cute Speed-Coding Mascot" />
+      <br/><br/>
+      <sub>⚡ <b>Mascot Status:</b> <i>Compiling microservices & sipping espresso</i> ☕⚡</sub>
+    </td>
+    <td width="64%" valign="top">
+      <div>
+        <!-- macOS Terminal Window Header -->
+        <span style="font-size: 14px;">🔴 &nbsp; 🟡 &nbsp; 🟢 &nbsp; &nbsp; <b>satwik@cloud-arch:~</b></span>
+        <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;"/>
+      </div>
+      
+```bash
+satwik@distributed-node:~$ neofetch --profile
 ```
+* **Developer:** Satwik Saxena
+* **Degree:** B.Tech in Computer Science & Engineering (🎓 **CGPA: 9.09**)
+* **Core Specialty:** Scalable Backend Architectures, High-Throughput APIs, System Design
+* **Primary Engine:** Java (Spring Boot) &bull; TypeScript / Node.js &bull; SQL &bull; Python
+* **Data & Cache:** PostgreSQL &bull; MySQL &bull; Redis In-Memory Cache &bull; MongoDB
+* **Deployment:** Docker Multi-stage Builds &bull; Linux &bull; CI/CD Pipelines
+* **Mission:** Engineering high-resilience systems that scale gracefully under peak load 🚀
+* **Availability:** **Actively interviewing for Software Engineering & Backend roles**
 
-<br/>
-
-- 🎓 &nbsp;**B.Tech CSE** @ TMU Moradabad &nbsp;|&nbsp; **9.09 CGPA**
-- 💼 &nbsp;Focused on **Backend**, **Full-Stack** & **System Design**
-- 🌱 &nbsp;Currently mastering **Spring Boot**, **Docker** & **Cloud**
-- 🤝 &nbsp;Open to **SWE / Backend / Full-Stack** roles
-- ⚡ &nbsp;Fun fact — I think in **flowcharts** and dream in **ERDs**
-
-<br clear="both"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════ WHAT I DO ═══════════════════════════ -->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp;What I Do
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="80"/>
-<br/><br/>
-<b>🏗️ Backend<br/>Engineering</b>
-<br/><br/>
-<sub>Spring Boot · Node.js<br/>REST APIs · Microservices</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80"/>
-<br/><br/>
-<b>🎨 Frontend<br/>Development</b>
-<br/><br/>
-<sub>React.js · Responsive UI<br/>Modern Web Design</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="80"/>
-<br/><br/>
-<b>🗄️ Database<br/>Design</b>
-<br/><br/>
-<sub>MySQL · PostgreSQL<br/>MongoDB · Firebase</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80"/>
-<br/><br/>
-<b>🐳 DevOps<br/>& Cloud</b>
-<br/><br/>
-<sub>Docker · Linux<br/>Git · CI/CD</sub>
-</td>
-</tr>
-</table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
-
-## &nbsp;🛠️ &nbsp;Tech Arsenal
-
-<div align="center">
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-<h4>⚡ Languages</h4>
-
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript&theme=dark" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-
-</td>
-<td align="center" width="33%">
-
-<h4>🖥️ Backend</h4>
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
-
-</td>
-<td align="center" width="33%">
-
-<h4>🎨 Frontend</h4>
-
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
-<br/><br/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-<h4>🗄️ Databases</h4>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase&theme=dark" />
-<br/><br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-</td>
-<td align="center">
-
-<h4>🐳 DevOps & Cloud</h4>
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github&theme=dark" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-
-</td>
-<td align="center">
-
-<h4>🧠 Core CS & Tools</h4>
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma&theme=dark" />
-<br/><br/>
-<img src="https://img.shields.io/badge/DSA-7C3AED?style=flat-square&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/System_Design-0D1117?style=flat-square&logo=blueprint&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/OOP-06B6D4?style=flat-square&logo=abstract&logoColor=white"/>
-
-</td>
-</tr>
+<p>
+  <img src="https://img.shields.io/badge/Focus-Distributed_Systems-38bdf8?style=flat-square&logo=speedtest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Clean_Architecture-818cf8?style=flat-square&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-Event--Driven-c084fc?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Ready_To_Deploy-22c55e?style=flat-square&logo=checkmarx&logoColor=white" />
+</p>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Projects That I'm Proud Of
-
-<div align="center">
-
-<table>
-
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">
-<img src="https://img.shields.io/badge/⭐-000?style=flat-square"/>
-🔐 Auth System & Task Management API
-</h3>
-<div align="center">
-
-**Scalable Auth & Task Management Backend**
 
 <br/>
 
-<a href="https://github.com/satwik12dev/Auth-System-Task-API"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-
+<div align="center">
+  <img src="assets/animated-divider.svg" width="100%" alt="divider" />
 </div>
 
 <br/>
 
-> _Scalable RESTful API with JWT access/refresh tokens, RBAC & task CRUD_
+<!-- ═══════════════════════ TECH STACK & CAPABILITIES ═══════════════════════ -->
 
-```
- ✦  JWT auth with access + refresh tokens
- ✦  Task CRUD, user mgmt & role-based access
- ✦  Modular architecture (30% better maintainability)
- ✦  Optimized queries (25% faster API responses)
- ✦  Dockerized for consistent deployments
-```
+### 🛠️ &nbsp;Tech Arsenal & High-Performance Capabilities
 
-</td>
-<td width="50%" valign="top">
-<h3 align="center">
-<img src="https://img.shields.io/badge/⭐-000?style=flat-square"/>
-💳 Payment Gateway CMS
-</h3>
-<div align="center">
-
-**Merchant & Payment Operations Platform**
-
-<br/>
-
-<a href="https://github.com/satwik12dev/trustgates-backend"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://trustgates.co.in/"><img src="https://img.shields.io/badge/🌐_Live_Site-10b981?style=flat-square"/></a>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/>
-
-</div>
-
-<br/>
-
-> _100+ REST APIs for merchants, transactions, settlements, refunds & KYC_
-
-```
- ✦  100+ APIs — merchants, txns, settlements
- ✦  Admin & Merchant dashboards (10+ metrics)
- ✦  Razorpay API + webhook integration (~60% less manual tracking)
- ✦  15+ MySQL tables, optimized (~25% faster)
- ✦  Redis OTP & session mgmt (~30% fewer DB calls)
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">
-<img src="https://img.shields.io/badge/⭐-000?style=flat-square"/>
-🏋️ Zymgo – Gym CRM Platform
-</h3>
-<div align="center">
-
-**Gym Management & CRM System**
-
-<br/>
-
-<a href="https://github.com/satwik12dev/ZymGo"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-
-</div>
-
-<br/>
-
-> _Multi-role gym platform — Admin, Owner, Staff & Member (Kodexive Technologies)_
-
-```
- ✦  4 user roles, 6+ business modules
- ✦  60+ secure REST APIs with RBAC
- ✦  15+ MySQL tables (relational integrity)
- ✦  CRUD workflows (~35% faster data-entry)
- ✦  Dashboard with 5+ real-time metrics
- ✦  Optimized SQL (~25% faster retrieval)
-```
-
-</td>
-<td width="50%" valign="top">
-<h3 align="center">
-<img src="https://img.shields.io/badge/⭐-000?style=flat-square"/>
-🤖 AI Resume Analyzer
-</h3>
-<div align="center">
-
-**Gemini-Powered Career Intelligence**
-
-<br/>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-
-</div>
-
-<br/>
-
-> _AI platform using Google Gemini for ATS scoring & career feedback_
-
-```
- ✦  Google Gemini API integration
- ✦  PDF parsing & content extraction
- ✦  ATS scoring + skill gap detection
- ✦  Personalized resume suggestions
- ✦  Dockerized for reliable deployment
-```
-
-</td>
-<br/>
-
-> _Robust desktop app for patient records & appointments with 3NF schema_
-
-```
- ✦  Full CRUD — patients & doctors
- ✦  JDBC + MySQL database layer
- ✦  3NF normalized relational schema
- ✦  Clean OOP design patterns
-```
-
-</td>
-</tr>
-
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Languages & Core Fundamentals</h4>
+      <sub>Java &bull; TypeScript &bull; JavaScript (ES6+) &bull; SQL &bull; Python &bull; Data Structures & Algorithms</sub>
+      <br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,ts,js,python&theme=dark" alt="Languages" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🖥️ Backend & Microservices Architecture</h4>
+      <sub>Spring Boot &bull; Node.js &bull; Express.js &bull; RESTful APIs &bull; Microservices &bull; JWT Auth</sub>
+      <br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=spring,nodejs,express,react&theme=dark" alt="Frameworks" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🗄️ Databases, Caching & Message Queues</h4>
+      <sub>PostgreSQL &bull; MySQL &bull; Redis (Distributed Caching / Locks) &bull; MongoDB</sub>
+      <br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&theme=dark" alt="Databases" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🐳 Infrastructure, DevOps & Tooling</h4>
+      <sub>Docker &bull; Git &bull; GitHub Actions CI/CD &bull; Linux CLI &bull; Postman &bull; Vercel</sub>
+      <br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman&theme=dark" alt="DevOps" />
+      </a>
+    </td>
+  </tr>
 </table>
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
-
-## &nbsp;📊 &nbsp;GitHub Analytics
-
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satwik12dev&theme=radical" width="95%" />
+  <br/>
+  <img src="assets/stick_coffee.gif" width="170" alt="Cute Study Character" />
+  <br/>
+  <sub><i>Leveling up every day through architecture deep dives and hands-on builds</i> 📚✨</sub>
+  <br/><br/>
+  <img src="assets/animated-divider.svg" width="100%" alt="divider" />
+</div>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satwik12dev&theme=radical" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satwik12dev&theme=radical" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=satwik12dev&theme=radical&utcOffset=5.5" width="32%"/>
+<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
 
-<br/><br/>
+### 💼 &nbsp;Featured Production & Engineering Projects
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=satwik12dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=c9d1d9&count_private=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=satwik12dev&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=06B6D4&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b949e&stroke=A78BFA" />
+<table>
+  <!-- Project 1: TrustGates -->
+  <tr>
+    <td width="100%" valign="top">
+      <h3>💳 TrustGates &mdash; Payment Gateway CMS & Settlement Platform</h3>
+      <p>
+        <a href="https://trustgates.co.in/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/satwik12dev/trustgates-backend" target="_blank">
+          <img src="https://img.shields.io/badge/Backend_Repo-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Node.js-22c55e?style=for-the-badge&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-0284c7?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-ef4444?style=for-the-badge&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Razorpay-1e3a8a?style=for-the-badge&logo=razorpay&logoColor=white"/>
+      </p>
+      <p><i>Mission-critical merchant payment platform orchestrating real-time transactions, automated payouts, dispute resolutions, and ledger reconciliations.</i></p>
+      <ul>
+        <li>🚀 <b>API Ecosystem:</b> Engineered <b>100+ secure RESTful endpoints</b> with input validation and rate-limiting for merchant onboarding and admin governance.</li>
+        <li>⚡ <b>Webhook Architecture:</b> Integrated <b>Razorpay webhook ingestion</b> with idempotency locks, reducing reconciliation delays by <b>60%</b>.</li>
+        <li>🎯 <b>Performance Tuning:</b> Architected 15+ normalized relational tables paired with <b>Redis caching</b>, cutting DB read overhead by <b>30%</b>.</li>
+      </ul>
+    </td>
+  </tr>
 
-<br/><br/>
+  <!-- Project 2: ZymGo -->
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🏋️ ZymGo &mdash; Multi-Tenant Gym CRM & Management Suite</h3>
+      <p>
+        <a href="https://github.com/satwik12dev/ZymGo" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/React-38bdf8?style=for-the-badge&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-22c55e?style=for-the-badge&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-475569?style=for-the-badge&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-0284c7?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT_Auth-8b5cf6?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
+      </p>
+      <p><i>Scalable multi-branch SaaS platform managing member billing, attendance check-ins, staff allocations, and automated subscription workflows.</i></p>
+      <ul>
+        <li>🛡️ <b>Granular Access Control:</b> Designed strict <b>Multi-Role RBAC</b> (SuperAdmin, Branch Owner, Staff, Member) across 6 interconnected modules.</li>
+        <li>🔒 <b>Hardened API Layer:</b> Implemented <b>60+ endpoints</b> featuring input sanitization, error-handling middleware, and JWT authentication.</li>
+        <li>⚡ <b>Query Tuning:</b> Optimized SQL joins and composite index strategy, improving dashboard query response times by <b>25%</b>.</li>
+      </ul>
+    </td>
+  </tr>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=satwik12dev&bg_color=0D1117&color=A78BFA&line=7C3AED&point=06B6D4&area=true&area_color=7C3AED&hide_border=true&custom_title=%F0%9F%93%88%20Contribution%20Activity" />
+  <!-- Project 3: Auth & Task API -->
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🔐 Enterprise Auth & Distributed Task Management Engine</h3>
+      <p>
+        <a href="https://github.com/satwik12dev/Auth-System-Task-API" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-0284c7?style=for-the-badge&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT_Rotation-8b5cf6?style=for-the-badge"/>
+      </p>
+      <p><i>High-assurance authentication microservice and distributed task queue coordination pipeline built with clean architecture principles.</i></p>
+      <ul>
+        <li>🛡️ <b>Zero-Trust Security:</b> Designed dual-token authentication (<b>short-lived access + sliding refresh token rotation</b>) with salted bcrypt hashing.</li>
+        <li>⚡ <b>Task Pipeline:</b> Built stateful task lifecycle management with schema validations and audit logs.</li>
+        <li>🐳 <b>Containerized:</b> Engineered multi-stage Docker builds for lightweight, reproducible cloud environments.</li>
+      </ul>
+    </td>
+  </tr>
 
+  <!-- Project 4: AI Resume Analyzer -->
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🤖 AI Resume Intelligence & ATS Evaluation Engine</h3>
+      <p>
+        <a href="https://github.com/satwik12dev" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Gemini_1.5_Pro-4f46e5?style=for-the-badge&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-22c55e?style=for-the-badge&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-38bdf8?style=for-the-badge&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Docker-0284c7?style=for-the-badge&logo=docker&logoColor=white"/>
+      </p>
+      <p><i>Automated resume parsing engine and semantic ATS score evaluator powered by large language model inference.</i></p>
+      <ul>
+        <li>🧠 <b>LLM Inference Pipeline:</b> Structured prompt chaining with <b>Google Gemini 1.5 Pro</b> for deep semantic ATS benchmarking.</li>
+        <li>📄 <b>Asynchronous Processing:</b> Engineered background document extractor for PDF tokenization, syntax analysis, and missing keyword identification.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <br/>
+  <img src="assets/bear-typing.gif" width="140" alt="Cute Bear Mascot" />
+  <br/>
+  <sub><i>"Ship code with precision, test edge cases with paranoia."</i></sub>
+  <br/><br/>
+  <img src="assets/animated-divider.svg" width="100%" alt="divider" />
 </div>
 
-<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
+<br/>
+
+<!-- ═══════════════════════ EXPANDABLE ARCHITECTURE PRINCIPLES ═══════════════════════ -->
+
+<details>
+<summary><b>🧠 &nbsp;Click to View: Satwik's Engineering Principles &amp; System Design Philosophy</b></summary>
+<br/>
+
+> 1. **Idempotency by Design:** All network requests and webhook ingestions are designed with unique idempotency keys to prevent duplicate state mutations.
+> 2. **Cache Smart, Invalidate Carefully:** Caching is a superpower, but cache coherence is king. Use cache-aside with strict TTLs and event-based cache bust.
+> 3. **Fail Fast & Gracefully:** Implement circuit breakers, defensive timeouts, and strict schema validation at the perimeter.
+> 4. **Database First:** An unindexed query in development becomes an outage in production. Profile execution plans early.
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>⚙️ &nbsp;Click to View: My Developer Environment &amp; Daily Drivers</b></summary>
+<br/>
+
+* **OS:** Arch Linux &bull; Windows (WSL2 / Ubuntu)
+* **Editor:** VS Code with Tokyo Night / Vim Motions &bull; Neovim
+* **Terminal:** Zsh + Oh-My-Zsh + Starship Prompt
+* **API Testing:** Postman &bull; cURL &bull; Insomnia
+* **Container Engine:** Docker Desktop &bull; Docker Compose
+
+</details>
 
 <br/>
 
 <div align="center">
-
-## &nbsp;🏆 &nbsp;GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=satwik12dev&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" width="100%" />
-
+  <img src="assets/animated-divider.svg" width="100%" alt="divider" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+<!-- ═══════════════════════ CONTRIBUTION SNAKE GAME ═══════════════════════ -->
+
+### 🐍 &nbsp;Contribution Snake Arena
 
 <div align="center">
 
-## &nbsp;🐍 &nbsp;Watch My Contributions Get Eaten
-
-<br/>
+<p>
+  <i>Watch the cute animated snake gobble up daily commits across the GitHub contribution grid in real-time!</i>
+</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satwik12dev/satwik12dev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satwik12dev/satwik12dev/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/satwik12dev/satwik12dev/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satwik12dev/satwik12dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satwik12dev/satwik12dev/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/satwik12dev/satwik12dev/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════ CERTIFICATIONS ═══════════════════════════ -->
-
-## &nbsp;🎖️ &nbsp;Certifications
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
 <br/><br/>
-<b>Cloud & Web<br/>Technologies</b>
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-<br/><br/>
-<b>Advanced<br/>SQL</b>
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.shields.io/badge/GUVI%20%C3%97%20HCL-FF6B35?style=for-the-badge&logo=python&logoColor=white"/>
-<br/><br/>
-<b>Python<br/>Programming</b>
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.shields.io/badge/Projects-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white"/>
-<br/><br/>
-<b>Software Dev<br/>(Multiple)</b>
-<br/><br/>
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- ═══════════════════════════ LEARNING ═══════════════════════════ -->
-
-## &nbsp;📚 &nbsp;Currently Leveling Up
-
-<div align="center">
-
-| &nbsp;Skill | Progress | &nbsp;Status |
-|:---|:---|:---:|
-| ☕ Spring Boot & Enterprise Java | `████████████████████░░` 90% | 🔥 **Active** |
-| 🐳 Docker & Containerization | `████████████████░░░░░░` 80% | 🔥 **Active** |
-| 🧮 Advanced DSA | `██████████████░░░░░░░░` 70% | ⚡ **Learning** |
-| 🏗️ System Design | `████████████░░░░░░░░░░` 60% | ⚡ **Learning** |
-| 🐘 PostgreSQL Optimization | `████████████░░░░░░░░░░` 60% | ⚡ **Learning** |
-| ☁️ Cloud & DevOps | `████████░░░░░░░░░░░░░░` 40% | 🌱 **Exploring** |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════ RANDOM QUOTE ═══════════════════════════ -->
-
-<div align="center">
-
-## 💬 &nbsp;Random Dev Quote
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%"/>
+<img src="assets/animated-divider.svg" width="100%" alt="divider" />
 
 </div>
 
 <br/>
+<!-- ═══════════════════════ CONNECT & FOOTER ═══════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════ FOOTER CTA ═══════════════════════════ -->
+### 📬 &nbsp;Let's Connect & Build Something Great!
 
 <div align="center">
 
-## 🤝 &nbsp;Let's Build Something Amazing Together
-
-<br/>
-
-```
-                    ╔══════════════════════════════════════════════════╗
-                    ║                                                  ║
-                    ║     🚀  Software Engineering                     ║
-                    ║     🏗️  Backend Development                      ║
-                    ║     💻  Full-Stack Engineering                    ║
-                    ║     🧠  System Design Roles                      ║
-                    ║                                                  ║
-                    ║     I'm looking to contribute to impactful       ║
-                    ║     products & grow with world-class teams.      ║
-                    ║                                                  ║
-                    ╚══════════════════════════════════════════════════╝
-```
+<p>
+  I'm actively looking for <b>Software Engineering (Backend / Full Stack)</b> opportunities.<br/>
+  Whether you have a role in mind, want to collaborate on open-source, or just geek out over system architecture &mdash; let's talk!
+</p>
 
 <br/>
 
 <a href="mailto:satwiksaxena41@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-satwiksaxena41%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" height="38"/>
+  <img src="https://img.shields.io/badge/Email-satwiksaxena41%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=f87171&color=1e293b&labelColor=020617" height="42"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/satwik-12-dev">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" height="38"/>
+&nbsp;
+<a href="https://www.linkedin.com/in/satwik-12-dev" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-satwik--12--dev-0f172a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9&color=1e293b&labelColor=020617" height="42"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://portfolio-website-satwik-12-dev.vercel.app">
-  <img src="https://img.shields.io/badge/Visit%20Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" height="38"/>
+&nbsp;
+<a href="https://portfolio-website-satwik-12-dev.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-satwik12dev-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8&color=1e293b&labelColor=020617" height="42"/>
 </a>
 
 <br/><br/>
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A78BFA,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="assets/stick_dance.gif" width="130" alt="Cute Celebration Mascot" />
+
+<p>
+  <sub>Crafted with passion, caffeine & clean architecture &bull; &copy; 2026 Satwik Saxena</sub>
+</p>
+
+<!-- Bottom Animated Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:1e1b4b,100:090d16&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
