@@ -26,9 +26,7 @@
   &nbsp;
   <a href="https://github.com/satwik12dev">
     <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=e2e8f0&labelColor=020617&color=1e293b" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=satwik12dev&label=Profile%20Views&color=0284c7&style=for-the-badge" alt="Profile Views"/>
+ 
 </p>
 
 <!-- Animated Glowing Divider -->
